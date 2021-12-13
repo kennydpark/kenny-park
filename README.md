@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/Hogbw5S.png)
+![Banner](https://i.imgur.com/VM5eM8w.png)
 
 # Hello! I'm Kenny Park :wave:
 
