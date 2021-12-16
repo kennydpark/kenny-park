@@ -14,7 +14,7 @@ When I'm not cooking up code in the kitchen, I'm usually catching up on all the 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kennydpark)
 
 #
-[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennydpark&theme=nord&hide=stars,contribs&show_icons=true)](https://github.com/kennydpark/github-readme-stats)
+[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennydpark&theme=nord&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
